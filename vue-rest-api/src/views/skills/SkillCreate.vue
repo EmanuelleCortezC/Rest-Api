@@ -8,6 +8,7 @@ const form = reactive({
     name: "",
     slug: ""
 })
+
 </script>
 <template>
     <div class="mt-12">
